@@ -6,10 +6,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "webAppName": {
-      "value": ""
+      "value": "mywebapp"
     },
     "appServicePlanName": {
-      "value": ""
+      "value": "myappservice"
     },
     "skuName": {
       "value": "F1"
